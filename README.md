@@ -1,6 +1,6 @@
 
 
-#  Building a Modern Data Lake Using Bronze–Silver–Gold Architecture **
+#  Building a Modern Data Lake Using Bronze–Silver–Gold Architecture
 
 A modern data lake follows a consistent pattern called the **Medallion Architecture**, which organizes data into the following stages:
 
